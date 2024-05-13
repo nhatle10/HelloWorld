@@ -9,4 +9,4 @@ I. Nội dung công việc:
 II. Phân công công việc:
   1. Tất cả các thành viên trong nhóm phải tìm hiểu và thực hiện các thao tác trong Git và Github
   2. Quay video minh họa gồm 3 thành viên: Lê Cảnh Nhật, Hồ Thị Thanh Tuyền, Huỳnh Đăng Khoa
-  3. Viết báo cao gồm 3 thành viên: Cáp Thị Mỹ Duyên, Hoàng Thị Thu Hường, Hà Xuân Bắc
+  3. Viết báo cáo gồm 3 thành viên: Cáp Thị Mỹ Duyên, Hoàng Thị Thu Hường, Hà Xuân Bắc
